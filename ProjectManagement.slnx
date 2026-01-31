@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ProjectManagement.API/ProjectManagement.API.csproj" />
+  <Project Path="ProjectManagement.BLL/ProjectManagement.BLL.csproj" />
+  <Project Path="ProjectManagement.Common/ProjectManagement.Common.csproj" />
+  <Project Path="ProjectManagement.DAL/ProjectManagement.DAL.csproj" />
+  <Project Path="ProjectManagement.Functions/ProjectManagement.Functions.csproj" Id="e9eeac90-2378-4235-b024-8298185ff1c6" />
+</Solution>
